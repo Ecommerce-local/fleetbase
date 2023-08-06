@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "96f484c0affadbfb960a3d78de06b8c0",
+    "content-hash": "9997b6a35ee483482f6d2f915f582ee9",
     "packages": [
         {
             "name": "aloha/twilio",
@@ -2091,16 +2091,16 @@
         },
         {
             "name": "fleetbase/core-api",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fleetbase/core-api.git",
-                "reference": "ad9fda1093c643d397fdafba2a32f815c295c172"
+                "reference": "7c76cbac4c41d6430d4fe77cbe99c9c069d2754d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fleetbase/core-api/zipball/ad9fda1093c643d397fdafba2a32f815c295c172",
-                "reference": "ad9fda1093c643d397fdafba2a32f815c295c172",
+                "url": "https://api.github.com/repos/fleetbase/core-api/zipball/7c76cbac4c41d6430d4fe77cbe99c9c069d2754d",
+                "reference": "7c76cbac4c41d6430d4fe77cbe99c9c069d2754d",
                 "shasum": ""
             },
             "require": {
@@ -2173,9 +2173,9 @@
             ],
             "support": {
                 "issues": "https://github.com/fleetbase/core-api/issues",
-                "source": "https://github.com/fleetbase/core-api/tree/v1.2.0"
+                "source": "https://github.com/fleetbase/core-api/tree/v1.2.1"
             },
-            "time": "2023-08-06T06:20:51+00:00"
+            "time": "2023-08-06T09:03:24+00:00"
         },
         {
             "name": "fleetbase/fleetops-api",
